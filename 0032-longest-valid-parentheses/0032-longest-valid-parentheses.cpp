@@ -4,8 +4,6 @@ public:
         int max_len = 0;
         int left = 0, right = 0;
         int n = s.length();
-
-        // Pass 1: Left to right
         for (int i = 0; i < n; ++i) {
             if (s[i] == '(') {
                 left++;
@@ -19,8 +17,6 @@ public:
                 left = right = 0;
             }
         }
-
-        // Pass 2: Right to left
         left = right = 0;
         for (int i = n - 1; i >= 0; --i) {
             if (s[i] == '(') {
@@ -28,14 +24,12 @@ public:
             } else {
                 right++;
             }
-
             if (left == right) {
                 max_len = max(max_len, 2 * left);
             } else if (left > right) {
                 left = right = 0;
             }
         }
-
         return max_len;
     }
 };
