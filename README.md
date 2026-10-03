@@ -119,10 +119,12 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -139,4 +142,8 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
