@@ -120,11 +120,13 @@ Open for reference and learning purposes.
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Open for reference and learning purposes.
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -147,8 +150,13 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
