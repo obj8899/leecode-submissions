@@ -119,6 +119,7 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/obj8899/leecode-submissions/tree/master/0058-length-of-last-word) |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -162,9 +163,26 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/obj8899/leecode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
