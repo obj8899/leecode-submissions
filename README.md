@@ -122,6 +122,7 @@ Open for reference and learning purposes.
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Open for reference and learning purposes.
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Open for reference and learning purposes.
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,4 +165,5 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
