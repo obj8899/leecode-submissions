@@ -155,6 +155,7 @@ Open for reference and learning purposes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/obj8899/leecode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,4 +210,8 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/obj8899/leecode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
