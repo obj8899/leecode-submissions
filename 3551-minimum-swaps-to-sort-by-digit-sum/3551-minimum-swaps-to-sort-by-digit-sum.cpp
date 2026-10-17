@@ -12,27 +12,26 @@ private:
 public:
     int minSwaps(vector<int>& nums) {
         int n = nums.size();
-        vector<int> sorted_nums = nums;
+        vector<pair<int, int>> items(n);
+        
+        for (int i = 0; i < n; ++i) {
+            items[i] = {nums[i], i};
+        }
 
-        sort(sorted_nums.begin(), sorted_nums.end(), [this](int a, int b) {
-            int sumA = getDigitSum(a);
-            int sumB = getDigitSum(b);
+        sort(items.begin(), items.end(), [this](const pair<int, int>& a, const pair<int, int>& b) {
+            int sumA = getDigitSum(a.first);
+            int sumB = getDigitSum(b.first);
             if (sumA != sumB) {
                 return sumA < sumB;
             }
-            return a < b;
+            return a.first < b.first;
         });
-
-        unordered_map<int, int> target_idx;
-        for (int i = 0; i < n; ++i) {
-            target_idx[sorted_nums[i]] = i;
-        }
 
         vector<bool> visited(n, false);
         int total_swaps = 0;
 
         for (int i = 0; i < n; ++i) {
-            if (visited[i] || target_idx[nums[i]] == i) {
+            if (visited[i] || items[i].second == i) {
                 continue;
             }
 
@@ -41,7 +40,7 @@ public:
 
             while (!visited[curr]) {
                 visited[curr] = true;
-                curr = target_idx[nums[curr]];
+                curr = items[curr].second;
                 cycle_size++;
             }
 
