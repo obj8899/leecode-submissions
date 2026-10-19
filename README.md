@@ -156,6 +156,7 @@ Open for reference and learning purposes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/obj8899/leecode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/obj8899/leecode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -167,6 +168,7 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/obj8899/leecode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
@@ -215,6 +217,7 @@ Open for reference and learning purposes.
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/obj8899/leecode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/obj8899/leecode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
