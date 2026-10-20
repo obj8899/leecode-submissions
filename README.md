@@ -164,6 +164,7 @@ Open for reference and learning purposes.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/obj8899/leecode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/obj8899/leecode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Open for reference and learning purposes.
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/obj8899/leecode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/obj8899/leecode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -245,6 +248,7 @@ Open for reference and learning purposes.
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/obj8899/leecode-submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
