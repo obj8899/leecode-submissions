@@ -128,6 +128,7 @@ Open for reference and learning purposes.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/obj8899/leecode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/obj8899/leecode-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/obj8899/leecode-submissions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
