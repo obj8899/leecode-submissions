@@ -166,6 +166,7 @@ Open for reference and learning purposes.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/obj8899/leecode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/obj8899/leecode-submissions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/obj8899/leecode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/obj8899/leecode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
@@ -221,6 +222,7 @@ Open for reference and learning purposes.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Open for reference and learning purposes.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -304,8 +307,10 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
