@@ -157,6 +157,7 @@ Open for reference and learning purposes.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/obj8899/leecode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/obj8899/leecode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/obj8899/leecode-submissions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -219,6 +220,7 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Open for reference and learning purposes.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -297,4 +300,12 @@ Open for reference and learning purposes.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
