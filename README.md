@@ -138,6 +138,7 @@ Open for reference and learning purposes.
 | [0032-longest-valid-parentheses](https://github.com/obj8899/leecode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/obj8899/leecode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/obj8899/leecode-submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/obj8899/leecode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/obj8899/leecode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -170,6 +171,7 @@ Open for reference and learning purposes.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/obj8899/leecode-submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/obj8899/leecode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/obj8899/leecode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/obj8899/leecode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/obj8899/leecode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/obj8899/leecode-submissions/tree/master/3886-sum-of-sortable-integers) |
@@ -318,6 +320,7 @@ Open for reference and learning purposes.
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/obj8899/leecode-submissions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/obj8899/leecode-submissions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/obj8899/leecode-submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/obj8899/leecode-submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
